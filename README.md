@@ -1,5 +1,5 @@
   
-<h2><a href="#蓝灯lantern最新版本下载" aria-hidden="true" class="anchor" id="user-content-蓝灯lantern最新版本下载"></a>蓝灯(Lantern)最新版本下载</h2>
+<h2><a href="#往期悟空图文下载" aria-hidden="true" class="anchor" id="user-content-往期悟空图文下载"></a>往期悟空图文下载</h2>
       
 <p><strong><g-emoji alias="red_circle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f534.png" ios-version="6.0">🔴</g-emoji><a href="https://github.com/getlantern/forum/issues/833">蓝灯最新版本下载地址请点这里</a><g-emoji alias="red_circle" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f534.png" ios-version="6.0">🔴</g-emoji></strong></p>
 <p>最新版本是4.4.x</p>
