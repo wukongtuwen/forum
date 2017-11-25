@@ -16,4 +16,6 @@
 <p>看被禁新闻，知中国真相。永久免费使用，无流量限制： <a href="https://github.com/getlantern/forum"><u>请点这里下载</u></a></p>
 
 <p>4、赛风</p>
-<p>永久免费使用，无流量限制： <a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe"><u>Windows版本 请点这里下载</u></a></p>, <a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk"><u>安卓版本 请点这里下载</u></a></p>
+<p>永久免费使用，无流量限制： 
+<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe"><u>Windows版本 请点这里下载</u></a></p>
+<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk"><u>安卓版本 请点这里下载</u></a></p>
