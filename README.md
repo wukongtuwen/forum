@@ -7,7 +7,7 @@
 <h2><a href="#翻墙软件、VPN" aria-hidden="true" class="anchor" id="user-content-VPN"></a>翻墙软件、VPN</h2>
 
 <p>1、蓝灯(Lantern)</p>
-<p>适合推特用户，免费版有流量限制，长期上推可充值为专业版。</p>
+<p>适合推特用户，免费版有流量限制，长期上推需充值为专业版。</p>
 <p>蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a></p>
 <p>蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a></p>
 
