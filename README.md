@@ -6,4 +6,4 @@
 
 <h2><a href="#翻墙软件下载" aria-hidden="true" class="anchor" id="user-content-翻墙软件下载"></a>翻墙软件下载</h2>
 
-<p><a href="https://github.com/getlantern/forum"><u>蓝灯(Lantern)VPN（适合推特）请点这里去下载</u></a></p>
+<p>适合推特用户： <a href="https://github.com/getlantern/forum"><u>蓝灯(Lantern)VPN 请点这里去下载</u></a></p>
