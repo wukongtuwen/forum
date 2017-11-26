@@ -16,46 +16,17 @@
   </tr>
   
   <tr>
-    <td align="center">
-     <h2><a aria-hidden="true" class="anchor" id="user-content-WKTW"></a>悟空图文下载</h2><br>
+    <td align="left"><br>
+     <h2>悟空图文下载</h2><br>
      <a href="#">敬请期待</a><br>
     </td>
   </tr>
   
   <tr>
-    <td align="center">
-      下载安卓版，更快更方便<br><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk">https://git.io/ogatea2</a><br>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/oGate2/Up/master/oGate_640.jpg" target="_blank"><img src="https://raw.githubusercontent.com/oGate2/Up/master/oGate_640.jpg" style="max-width:100%;"></a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-大陆用户无需翻墙，<br>
-直接登入《网门》网站，<br>就可以分享全球精粹资源。<br>
-《网门》揭开网络时代的新视角，<br>引领网络时代的新风尚。<br>
-《网门》适合手机、平板、电脑等<br>所有网络终端用户。<br>
-《网门》无需翻墙突破网络封锁，<br>是稳定长效的安全网址。<br>
-只要把网址保存在手机浏览器书签中，<br>或保存在电脑浏览器收藏夹中，<br>
-就可以随时打开《网门》，<br>
-分享全球菁萃资源。<br>
-    </td>
-  </tr>
-  
-</tbody>
-</table>    
-</article>
-</div>
-</div>
-
-
-
-
-<h2><a href="#翻墙软件、VPN" aria-hidden="true" class="anchor" id="user-content-VPN"></a>翻墙软件、VPN</h2>
+    <td align="left">
+     
+     
+     <h2><a href="#翻墙软件、VPN" aria-hidden="true" class="anchor" id="user-content-VPN"></a>翻墙软件、VPN</h2>
 
 <p>1、蓝灯(Lantern)</p>
 <p>适合推特用户，免费版有流量限制，长期上推需充值为专业版。</p>
@@ -72,3 +43,18 @@
 <p>永久免费。有时好用有时不好用</p>
 <p>赛风电脑版：<a href="https://psiphon3.com/psiphon3.exe"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe">下载地址2</a></p>
 <p>赛风安卓版：<a href="https://psiphon3.com/PsiphonAndroid.apk"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk">下载地址2</a></p>
+     
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center"><a href="https://raw.githubusercontent.com/oGate2/Up/master/oGate_640.jpg" target="_blank"><img src="https://raw.githubusercontent.com/oGate2/Up/master/oGate_640.jpg" style="max-width:100%;"></a>
+    </td>
+  </tr>
+ 
+  
+</tbody>
+</table>    
+</article>
+</div>
+</div>
