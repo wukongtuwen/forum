@@ -1,4 +1,4 @@
-curl -i https://git.io -F url=https://github.com/wukongtuwen/forum -F code=wktw
+$ curl -i https://git.io -F url=https://github.com/wukongtuwen/forum -F code=wktw
 
 HTTP/1.1 100 Continue
 
