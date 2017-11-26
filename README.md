@@ -11,24 +11,24 @@
   
   
   <tr>
-    <td align="center">欢迎来到悟空图文<br>
-      以下短网址长期有效，请收藏<br>
-      <a href="https://git.io/wktw">https://git.io/wktw</a><br>
+    <td align="center">欢迎来到悟空图文
+      <p>以下短网址长期有效，请收藏</p>
+      <p><a href="https://git.io/wktw">https://git.io/wktw</a></p>
     </td>
   </tr>
   
   
   <tr>
-    <td align="left"><br>
-     <h2>悟空图文下载</h2><br>
-     <a href="#">敬请期待</a><br>
+    <td align="left">
+     <p><b>悟空图文下载</b></p>
+     <p><a href="#">敬请期待</a></p>
     </td>
   </tr>
   
   
   <tr>
     <td align="left">     
-       <h2>翻墙软件、VPN</h2>
+       <b>翻墙软件、VPN</b>
        <p>1、蓝灯(Lantern)</p>
        <p>适合推特用户，免费版有流量限制，长期上推需充值为专业版。</p>
        <p>蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a></p>
