@@ -9,10 +9,9 @@
   </tr>
   
   <tr>
-    <td align="center">网门 網門<br>
-      欢迎来到固定网址页面，请收藏<br>
-      <a href="https://git.io/ogate2">https://git.io/ogate2</a><br>
-      <a href="https://github.com/ogate2/ogate">https://github.com/ogate2/ogate</a><br>
+    <td align="center">欢迎来到悟空图文<br>
+      以下短网址，请收藏<br>
+      <a href="https://git.io/wktw">https://git.io/wktw</a><br>
     </td>
   </tr>
   
@@ -66,7 +65,7 @@
 
 
 
-本页短网址(敬请收藏）:https://git.io/wktw
+
 
 <h2><a href="#悟空图文下载" aria-hidden="true" class="anchor" id="user-content-WKTW"></a>悟空图文下载</h2>
 
