@@ -34,11 +34,13 @@
        蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
        蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a><br><br>
        2、自由门<br>
-       看被禁新闻，知中国真相。永久免费。电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip"><u>下载地址</u></a><br><br>
+       看被禁新闻，知中国真相。永久免费。<br>
+       自由门电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip"><u>下载地址</u></a><br><br>
        3、无界浏览<br>
-       看被禁新闻，知中国真相。永久免费。电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/UM.apk"><u>下载地址</u></a><br><br>
+       看被禁新闻，知中国真相。永久免费。<br>
+       自由门电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/UM.apk"><u>下载地址</u></a><br><br>
        4、赛风(Psiphon)<br>
-       永久免费。有时好用有时不好用<br>
+       永久免费。有时好用有时不好用。<br>
        赛风电脑版：<a href="https://psiphon3.com/psiphon3.exe"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe">下载地址2</a><br>
        赛风安卓版：<a href="https://psiphon3.com/PsiphonAndroid.apk"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk">下载地址2</a><br><br>
     </td>
