@@ -5,7 +5,7 @@
   
   
   <tr>
-    <td align="center"><a href="https://user-images.githubusercontent.com/33987457/33241409-c0886b1c-d2ff-11e7-9f01-54044ca51cad.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" style="max-width:100%;"></a>
+    <td align="center"><img src="https://user-images.githubusercontent.com/33987457/33241409-c0886b1c-d2ff-11e7-9f01-54044ca51cad.png" style="max-width:100%;">
     </td>
   </tr>
   
@@ -48,11 +48,20 @@
   <tr>
     <td align="left"><br>
      <b>禁书下载</b><br>
-     请先翻墙，再访问禁书网：<a href="#">点击访问</a><br><br>
+     请先翻墙，再访问禁书网：<a href="https://www.bannedbook.org/">点击访问</a><br><br>
     </td>
   </tr>
  
  
+ 
+   <tr>
+    <td align="left"><br>
+     <b>友情链接</b><br>
+     <a href="https://github.com/oGate2/oGate/blob/master/README.md">网门</a><br><br>
+    </td>
+  </tr>
+  
+  
 </tbody>
 </table>    
 </article>
