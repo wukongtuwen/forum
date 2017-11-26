@@ -4,12 +4,12 @@
  <tbody>
   
   <tr>
-    <td align="left"><a href="https://user-images.githubusercontent.com/33987457/33241409-c0886b1c-d2ff-11e7-9f01-54044ca51cad.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" style="max-width:100%;"></a>
+    <td align="center"><a href="https://user-images.githubusercontent.com/33987457/33241409-c0886b1c-d2ff-11e7-9f01-54044ca51cad.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" style="max-width:100%;"></a>
     </td>
   </tr>
   
   <tr>
-    <td align="left">欢迎来到悟空图文<br>
+    <td align="center">欢迎来到悟空图文<br>
       以下短网址长期有效，请收藏<br>
       <a href="https://git.io/wktw">https://git.io/wktw</a><br>
     </td>
@@ -17,7 +17,7 @@
   
   <tr>
     <td align="center">
-     <h2><a href="#悟空图文下载" aria-hidden="true" class="anchor" id="user-content-WKTW"></a>悟空图文下载</h2><br>
+     <h2><a aria-hidden="true" class="anchor" id="user-content-WKTW"></a>悟空图文下载</h2><br>
      <a href="#">敬请期待</a><br>
     </td>
   </tr>
