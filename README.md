@@ -38,7 +38,7 @@
        自由门安卓版：<a href="https://git.io/fgma"><u>下载地址1</u></a>，<a href="https://git.io/fgma"><u>下载地址2</u></a><br><br>
        5、无界浏览<br>
        看被禁新闻，知中国真相。永久免费。<br>
-       无界电脑版：<a href="https://raw.githubusercontent.com/osurf/osurf/master/u.rar"><u>下载地址1</u></a>，<a href="https://git.io/wj"><u>下载地址2</u></a><br>，<a href="http://git.io/HNvvvQ"><u>下载地址3</u></a><br>
+       无界电脑版：<a href="https://raw.githubusercontent.com/osurf/osurf/master/u.rar"><u>下载地址1</u></a>，<a href="https://git.io/wj"><u>下载地址2</u></a>，<a href="http://git.io/HNvvvQ"><u>下载地址3</u></a><br>
        无界安卓版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/UM.apk"><u>下载地址1</u></a>，<a href="https://git.io/2S1IBQ"><u>下载地址2</u></a>，<a href="https://s3.amazonaws.com/wujie/um.htm"><u>下载地址3</u></a><br><br>
        6、蓝灯(Lantern)<br>
        适合推特用户，免费版限流量，专业版需充值。<br>
