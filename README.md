@@ -12,7 +12,7 @@
   
   <tr>
     <td align="center">欢迎来到悟空图文<br>
-      以下短网址长期有效，敬请收藏<br>
+      本站网址永久有效，收藏：<br>
       <a href="https://git.io/wktw">https://git.io/wktw</a><br>
     </td>
   </tr>
@@ -53,7 +53,6 @@
   </tr>
  
  
- 
    <tr>
     <td align="left"><br>
      <b>友情链接</b><br>
@@ -61,7 +60,6 @@
      <br><br>
     </td>
   </tr>
-
 
   
 </tbody>
