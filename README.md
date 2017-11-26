@@ -29,7 +29,7 @@
   <tr>
     <td align="left"><br>
        <b>翻墙软件、VPN</b><br><br>
-       1、翻墙软件汇总（）：<a href="https://github.com/bannedbook/fanqiang/wiki#to-wjw"><u>点击访问</u></a><br><br>
+       1、翻墙软件汇总（有经验的）：<a href="https://github.com/bannedbook/fanqiang/wiki#to-wjw"><u>点击访问</u></a><br><br>
        2、火狐一键翻墙包：<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"><u>点击访问</u></a><br><br>
        3、谷歌一键翻墙包：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"><u>点击访问</u></a><br><br>
        4、自由门<br>
