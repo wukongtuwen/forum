@@ -57,7 +57,7 @@
    <tr>
     <td align="left"><br>
      <b>友情链接</b><br>
-     <a href="https://git.io/ogate2">网门</a>  <a href="https://git.io/free99">动态网</a>  <a href="https://git.io/jww">禁闻网</a>  <a href="https://git.io/freesky">自由天空</a>  <a href="https://git.io/osurf">翻墙部落</a>  <a href="https://git.io/tv111">分享小站</a>  <a href="https://git.io/jyg10">聚缘阁</a>  <a href="https://git.io/chun">长春真相</a>  <a href="https://git.io/beijing">北京真相</a>  <a href="https://git.io/vQjqe">神州正道</a>  <a href="https://git.io/organ">https://git.io/organ</a>  <a href="https://git.io/168">https://git.io/168</a>  <a href="https://git.io/88">https://git.io/88</a> 
+     <a href="https://git.io/ogate2">网门</a>  <a href="https://git.io/free99">动态网</a>  <a href="https://git.io/jww">禁闻网</a>  <a href="https://git.io/freesky">自由天空</a>  <a href="https://git.io/osurf">翻墙部落</a>  <a href="https://git.io/tv111">分享小站</a>  <a href="https://git.io/jyg10">聚缘阁</a>  <a href="https://git.io/chun">长春真相</a>  <a href="https://git.io/beijing">北京真相</a>  <a href="https://git.io/vQjqe">神州正道</a>  <a href="https://git.io/organ">organ小站</a>  <a href="https://git.io/168">168小站</a>  <a href="https://git.io/88">88小站</a> 
      <br><br>
     </td>
   </tr>
