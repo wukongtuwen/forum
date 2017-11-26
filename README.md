@@ -12,14 +12,14 @@
   
   <tr>
     <td align="center">欢迎来到悟空图文<br>
-      以下短网址长期有效，请收藏<br>
+      以下短网址长期有效，敬请收藏<br>
       <a href="https://git.io/wktw">https://git.io/wktw</a><br>
     </td>
   </tr>
   
   
   <tr>
-    <td align="left"><br>
+    <td align="left">
      <b>悟空图文下载</b><br>
      <a href="#">敬请期待</a><br>
     </td>
@@ -27,10 +27,10 @@
   
   
   <tr>
-    <td align="left"><br>   
+    <td align="left">
        <b>翻墙软件、VPN</b><br>
        1、蓝灯(Lantern)<br>
-       适合推特用户，免费版有流量限制，长期上推需充值为专业版。<br>
+       适合推特用户，免费版限流量，专业版需充值。<br>
        蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
        蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a><br>
        2、自由门<br>
@@ -46,7 +46,7 @@
   
   
   <tr>
-    <td align="left"><br>
+    <td align="left">
      <b>禁书下载</b><br>
      请先翻墙，再访问禁书网：<a href="#">点击打开</a><br>
     </td>
