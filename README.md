@@ -1,4 +1,4 @@
-本页短网址收藏备用:https://git.io/wktw
+本页短网址(敬请收藏）:https://git.io/wktw
 
 <h2><a href="#悟空图文下载" aria-hidden="true" class="anchor" id="user-content-WKTW"></a>悟空图文下载</h2>
 
