@@ -61,11 +61,8 @@
      <br><br>
     </td>
   </tr>
-  
-    |   |   |   |   |   | https://git.io/organ | https://git.io/168 | https://git.io/88 |   |   |  
-  
-  
-  
+
+
   
 </tbody>
 </table>    
