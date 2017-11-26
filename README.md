@@ -4,30 +4,21 @@
  <tbody>
   
   <tr>
-    <td align="center"><a href="https://user-images.githubusercontent.com/33987457/33241409-c0886b1c-d2ff-11e7-9f01-54044ca51cad.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" style="max-width:100%;"></a>
+    <td align="left"><a href="https://user-images.githubusercontent.com/33987457/33241409-c0886b1c-d2ff-11e7-9f01-54044ca51cad.png" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" style="max-width:100%;"></a>
     </td>
   </tr>
   
   <tr>
-    <td align="center">欢迎来到悟空图文<br>
-      以下短网址，请收藏<br>
+    <td align="left">欢迎来到悟空图文<br>
+      以下短网址长期有效，请收藏<br>
       <a href="https://git.io/wktw">https://git.io/wktw</a><br>
     </td>
   </tr>
   
   <tr>
-    <td align="center">请尝试不同入口，进入动态网址<br>
-      <a href="https://s3-us-west-1.amazonaws.com/ogaten/oGate.htm?from=oGate">入口</a>
-      <a href="https://s3.us-east-2.amazonaws.com/ogateh/oGate.htm?from=oGate">入口</a>
-      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=oGate">入口</a><br>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=oGate">入口</a>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=oGate">入口</a>
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=oGate">入口</a><br>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=oGate">入口</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=oGate">入口</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=oGate">入口</a><br>
-      微信如提示停止访问该网页，须<br>
-      先点击右上角，选择浏览器打开<br>
+    <td align="center">
+     <h2><a href="#悟空图文下载" aria-hidden="true" class="anchor" id="user-content-WKTW"></a>悟空图文下载</h2><br>
+     <a href="#">敬请期待</a><br>
     </td>
   </tr>
   
@@ -62,14 +53,6 @@
 </div>
 
 
-
-
-
-
-
-<h2><a href="#悟空图文下载" aria-hidden="true" class="anchor" id="user-content-WKTW"></a>悟空图文下载</h2>
-
-<p><a href="#">敬请期待</a></p>
 
 
 <h2><a href="#翻墙软件、VPN" aria-hidden="true" class="anchor" id="user-content-VPN"></a>翻墙软件、VPN</h2>
