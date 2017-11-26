@@ -5,7 +5,7 @@
   
   
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/33987457/33241409-c0886b1c-d2ff-11e7-9f01-54044ca51cad.png" style="max-width:100%;">
+    <td align="center"><img src="https://user-images.githubusercontent.com/33987457/33241738-283f65e4-d305-11e7-82ba-33dd3b1666e1.png" style="max-width:100%;">
     </td>
   </tr>
   
@@ -57,9 +57,14 @@
    <tr>
     <td align="left"><br>
      <b>友情链接</b><br>
-     <a href="https://github.com/oGate2/oGate/blob/master/README.md">网门</a><br><br>
+     <a href="https://git.io/ogate2">网门</a>  <a href="https://git.io/free99">动态网</a>  <a href="https://git.io/jww">禁闻网</a>  <a href="https://git.io/freesky">自由天空</a>  <a href="https://git.io/osurf">翻墙部落</a>  <a href="https://git.io/tv111">分享小站</a>  <a href="https://git.io/jyg10">聚缘阁</a>  <a href="https://git.io/chun">长春真相</a>  <a href="https://git.io/beijing">北京真相</a>  <a href="https://git.io/vQjqe">神州正道</a>  <a href="https://git.io/organ">https://git.io/organ</a>  <a href="https://git.io/168">https://git.io/168</a>  <a href="https://git.io/88">https://git.io/88</a> 
+     <br><br>
     </td>
   </tr>
+  
+    |   |   |   |   |   | https://git.io/organ | https://git.io/168 | https://git.io/88 |   |   |  
+  
+  
   
   
 </tbody>
