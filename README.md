@@ -14,6 +14,7 @@
     <td align="center">欢迎来到悟空图文<br>
       本站网址永久有效，收藏后翻墙不再难：<br>
       <a href="https://git.io/wktw">https://git.io/wktw</a><br>
+     🔴🔴
     </td>
   </tr>
   
@@ -35,7 +36,7 @@
        4、自由门<br>
        看被禁新闻，知中国真相。永久免费。<br>
        自由门电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip"><u>下载地址1</u></a>，<a href="https://git.io/fgt"><u>下载地址2</u></a>，<a href="https://git.io/fgp"><u>下载地址3</u></a><br>
-       自由门安卓版：<a href="https://git.io/fgma"><u>下载地址1</u></a>，<a href="https://git.io/fgma"><u>下载地址2</u></a><br><br>
+       自由门安卓版：<a href="https://git.io/fgma"><u>下载地址1</u></a><br><br>
        5、无界浏览<br>
        看被禁新闻，知中国真相。永久免费。<br>
        无界电脑版：<a href="https://raw.githubusercontent.com/osurf/osurf/master/u.rar"><u>下载地址1</u></a>，<a href="https://git.io/wj"><u>下载地址2</u></a>，<a href="http://git.io/HNvvvQ"><u>下载地址3</u></a><br>
@@ -55,7 +56,7 @@
   <tr>
     <td align="left"><br>
      <b>禁书下载</b><br>
-     请先翻墙，再访问禁书网：<a href="https://www.bannedbook.org/">点击访问</a><br><br>
+     请先翻墙，再访问禁书网，禁书应有尽有：<a href="https://www.bannedbook.org/">点击访问</a><br><br>
     </td>
   </tr>
  
