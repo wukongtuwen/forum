@@ -45,11 +45,11 @@
        无界电脑版：<a href="https://raw.githubusercontent.com/osurf/osurf/master/u.rar"><u>下载地址1</u></a>，<a href="https://git.io/wj"><u>下载地址2</u></a>，<a href="http://git.io/HNvvvQ"><u>下载地址3</u></a><br>
        无界安卓版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/UM.apk"><u>下载地址1</u></a>，<a href="https://git.io/2S1IBQ"><u>下载地址2</u></a>，<a href="https://s3.amazonaws.com/wujie/um.htm"><u>下载地址3</u></a><br><br>
        6、蓝灯(Lantern)<br>
-       适合推特用户，免费版限流量，专业版需充值。<br>
+       适合推特用户。<br>
        蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
        蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a><br><br>
        7、赛风(Psiphon)<br>
-       适合推特用户，永久免费。<br>
+       适合推特用户。<br>
        赛风电脑版：<a href="https://psiphon3.com/psiphon3.exe"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe">下载地址2</a><br>
        赛风安卓版：<a href="https://psiphon3.com/PsiphonAndroid.apk"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk">下载地址2</a><br><br>
     </td>
