@@ -31,7 +31,7 @@
   
   <tr>
     <td align="left"><br>
-     <b>悟空图文下载</b><br><br>
+     <b>悟空图文下载</b><br>
      全部悟空图文：<a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ"><u>下载地址1</u></a><br>
      下载说明：<br>
      1、翻墙后右键点Download开始下；<br>
