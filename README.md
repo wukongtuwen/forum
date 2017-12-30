@@ -24,8 +24,8 @@
   <tr>
     <td align="left"><br>
      <b>悟空图文博客</b><br><br>
-     悟空图文海外博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a><br>
-     说明：需先下载使用<a href="#vpn">翻墙软件、VPN</a>才可访问。<br><br>
+     使用<a href="#vpn">翻墙软件、VPN</a>，可访问悟空图文海外博客：<br>
+     <a href="https://wukongtuwen.blogspot.com">https://wukongtuwen.blogspot.com</a><br>
     </td>
   </tr>
   
@@ -41,7 +41,7 @@
   
   
   <tr>
-    <td align="left"><br>
+    <td align="left">
        <br name="vpn">
        <b>翻墙软件、VPN</b><br><br> 
        1、无界浏览<br>
