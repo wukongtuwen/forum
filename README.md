@@ -113,7 +113,7 @@
   <tr>
     <td align="left">
      <b>意见反馈</b><br>
-     意见建议请致信：wukongtuwen@gmail.com<br><br>
+     请致信：wukongtuwen@gmail.com<br><br>
     </td>
   </tr>
   
