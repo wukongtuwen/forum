@@ -91,6 +91,7 @@
     </td>
   </tr>
   
+  
   <tr>
     <td align="left">
      <br name="bannedbook">
@@ -108,6 +109,14 @@
     </td>
   </tr>
 
+
+  <tr>
+    <td align="left">
+     <b>意见反馈</b><br>
+     意见建议请致信：wukongtuwen@gmail.com<br><br>
+    </td>
+  </tr>
+  
   
 </tbody>
 </table>    
