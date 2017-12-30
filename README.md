@@ -15,8 +15,8 @@
       本站网址永久有效，收藏后翻墙不再难：<br>
       <a href="https://git.io/wktw1">https://git.io/wktw1</a><br>
       🔴上推特请下载<a href="#Lantern">蓝灯</a>或<a href="#Psiphon">赛风</a>🔴<br>
-      🔴请尽量用电脑浏览器或手机浏览器打开本站🔴<br>
-      🔴在QQ微信里，下面链接有可能打不开🔴<br>
+      🔴请尽量用电脑或手机浏览器打开本站🔴<br>
+      🔴下面可能有链接在QQ微信打不开🔴<br>
     </td>
   </tr>
   
@@ -46,7 +46,7 @@
        3、蓝灯(Lantern)<br>
        适合推特用户。<br>
        蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
-       蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a><br><br>
+       蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a><br>
        <br name="Psiphon">
        4、赛风(Psiphon)<br>
        适合推特用户。<br>
