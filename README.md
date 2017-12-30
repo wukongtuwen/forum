@@ -22,8 +22,8 @@
   
   
   <tr>
-    <td align="left"><br>
-     <b>悟空图文博客（需翻墙）</b><a href="https://wukongtuwen.blogspot.com">点击访问</a><br>
+    <td align="left">
+     悟空图文博客（需翻墙）：<a href="https://wukongtuwen.blogspot.com">点击访问</a><br>
     </td>
   </tr>
   
