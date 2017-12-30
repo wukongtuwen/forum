@@ -23,6 +23,7 @@
   
   <tr>
     <td align="left">
+     <b>悟空图文博客</b><br><br>
      悟空图文博客（需翻墙）：<a href="https://wukongtuwen.blogspot.com">点击访问</a><br>
     </td>
   </tr>
@@ -34,7 +35,7 @@
      全部悟空图文：<a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ"><u>下载地址1</u></a><br>
      下载说明：<br>
      1、翻墙后右键点Download开始下；<br>
-     2、每晚24:00前后上传当天的。
+     2、每晚零点前后上传当天的。
      <br><br>
     </td>
   </tr>
