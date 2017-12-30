@@ -14,7 +14,7 @@
     <td align="center">欢迎来到悟空图文<br>
       本站网址永久有效，收藏后翻墙不再难：<br>
       <a href="https://git.io/wktw1">https://git.io/wktw1</a><br>
-      🔴想上推特，请下载下面的蓝灯和赛风🔴<br>
+      🔴上推特请下载<a href="#Lantern">蓝灯</a>和赛风🔴<br>
       🔴请尽量用电脑浏览器或手机浏览器打开本站🔴<br>
       🔴在QQ微信里，下面链接有可能打不开🔴<br>
     </td>
@@ -44,7 +44,7 @@
        自由门安卓版：<a href="https://git.io/fgma"><u>下载地址1</u></a><br><br>
        3、蓝灯(Lantern)<br>
        适合推特用户。<br>
-       蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
+       蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe" name="Lantern">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
        蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a><br><br>
        4、赛风(Psiphon)<br>
        适合推特用户。<br>
