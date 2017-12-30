@@ -15,8 +15,18 @@
       本站网址永久有效，收藏后翻墙不再难<br>
       <a href="https://git.io/wktw1">https://git.io/wktw1</a><br>
       🔴上推特请下载<a href="#Lantern">蓝灯</a>或<a href="#Psiphon">赛风</a>🔴<br>
+      🔴上推特请下载<a href="#Lantern">蓝灯</a>或<a href="#Psiphon">赛风</a>🔴<br>
       🔴请用电脑或手机浏览器打开本站🔴<br>
       🔴下面可能有链接在QQ微信打不开🔴<br>
+    </td>
+  </tr>
+  
+  
+  <tr>
+    <td align="left"><br>
+     <b>悟空图文博客</b><br><br>
+     悟空图文海外博客：<a href="https://wukongtuwen.blogspot.com">https://wukongtuwen.blogspot.com</a><br><br>
+     使用下面的<a href="#vpn">翻墙软件、VPN</a>可访问。
     </td>
   </tr>
   
@@ -33,6 +43,7 @@
   
   <tr>
     <td align="left"><br>
+       <br name="vpn">
        <b>翻墙软件、VPN</b><br><br> 
        1、无界浏览<br>
        看被禁新闻，知中国真相。永久免费。<br>
@@ -80,7 +91,7 @@
   
   <tr>
     <td align="left"><br>
-     <b>禁书下载</b><br>
+     <b>禁书下载</b><br><br>
      请先使用上面翻墙软件翻墙，再访问禁书网，禁书应有尽有：<a href="https://www.bannedbook.org/">点击访问</a><br><br>
     </td>
   </tr>
@@ -88,7 +99,7 @@
  
    <tr>
     <td align="left"><br>
-     <b>友情链接</b><br>
+     <b>友情链接</b><br><br>
      <a href="https://git.io/ogate2">网门</a> </a>  <a href="https://git.io/jww">禁闻网</a>    <a href="https://git.io/osurf">翻墙部落</a>  <a href="https://git.io/tv111">分享小站</a>  <a href="https://git.io/jyg10">聚缘阁</a>  <a href="https://git.io/chun">长春真相</a>  <a href="https://git.io/beijing">北京真相</a>  <a href="https://git.io/vQjqe">神州正道</a>  <a href="https://git.io/organ">organ小站</a>  <a href="https://git.io/168">168小站</a>  <a href="https://git.io/88">88小站</a> 
      <br><br>
     </td>
