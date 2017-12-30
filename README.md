@@ -22,9 +22,9 @@
   
   
   <tr>
-    <td align="left">
-     <b>悟空图文博客</b><br><br>
-     悟空图文博客（需翻墙）：<a href="https://wukongtuwen.blogspot.com">点击访问</a><br>
+    <td align="left"><br>
+     <b>悟空图文博客</b><br>
+     悟空图文博客（需翻墙）：<a href="https://wukongtuwen.blogspot.com">点击访问</a><br><br>
     </td>
   </tr>
   
@@ -91,7 +91,7 @@
   
   <tr>
     <td align="left"><br>
-     <b>禁书下载</b><br><br>
+     <b>禁书下载</b><br>
      请先使用上面翻墙软件翻墙，再访问禁书网，禁书应有尽有：<a href="https://www.bannedbook.org/">点击访问</a><br><br>
     </td>
   </tr>
@@ -99,7 +99,7 @@
  
    <tr>
     <td align="left"><br>
-     <b>友情链接</b><br><br>
+     <b>友情链接</b><br>
      <a href="https://git.io/ogate2">网门</a> </a>  <a href="https://git.io/jww">禁闻网</a>    <a href="https://git.io/osurf">翻墙部落</a>  <a href="https://git.io/tv111">分享小站</a>  <a href="https://git.io/jyg10">聚缘阁</a>  <a href="https://git.io/chun">长春真相</a>  <a href="https://git.io/beijing">北京真相</a>  <a href="https://git.io/vQjqe">神州正道</a>  <a href="https://git.io/organ">organ小站</a>  <a href="https://git.io/168">168小站</a>  <a href="https://git.io/88">88小站</a> 
      <br><br>
     </td>
