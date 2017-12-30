@@ -23,8 +23,8 @@
   
   <tr>
     <td align="left"><br>
-     <b>悟空图文博客</b><br><br>
-     使用<a href="#vpn">翻墙软件、VPN</a>，可访问悟空图文海外博客：<br>
+     <b>悟空图文博客</b><br>
+     <a href="#vpn">翻墙</a>后可访问悟空图文海外博客：<br>
      <a href="https://wukongtuwen.blogspot.com">https://wukongtuwen.blogspot.com</a><br>
     </td>
   </tr>
