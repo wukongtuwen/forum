@@ -42,9 +42,9 @@
        看被禁新闻，知中国真相。永久免费。<br>
        自由门电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip"><u>下载地址1</u></a>，<a href="https://git.io/fgt"><u>下载地址2</u></a>，<a href="https://git.io/fgp"><u>下载地址3</u></a><br>
        自由门安卓版：<a href="https://git.io/fgma"><u>下载地址1</u></a><br><br>
-       3、蓝灯(Lantern)<br>
+       3、蓝灯(Lantern)<br name="Lantern">
        适合推特用户。<br>
-       蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe" name="Lantern">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
+       蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
        蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a><br><br>
        4、赛风(Psiphon)<br>
        适合推特用户。<br>
