@@ -14,8 +14,8 @@
     <td align="center">欢迎来到悟空图文<br>
       本站网址永久有效，收藏后翻墙不再难：<br>
       <a href="https://git.io/wktw1">https://git.io/wktw1</a><br>
-      🔴请用浏览器打开本站🔴<br>
-      🔴下面很多链接在QQ微信上打不开🔴<br>
+      🔴请尽量用电脑浏览器或手机浏览器打开本站🔴<br>
+      🔴在QQ微信里，下面可能有链接打不开🔴<br>
     </td>
   </tr>
   
