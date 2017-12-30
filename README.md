@@ -14,8 +14,9 @@
     <td align="center">欢迎来到悟空图文<br>
       本站网址永久有效，收藏后翻墙不再难：<br>
       <a href="https://git.io/wktw1">https://git.io/wktw1</a><br>
+      🔴想上推特，请下载下面的蓝灯和赛风🔴<br>
       🔴请尽量用电脑浏览器或手机浏览器打开本站🔴<br>
-      🔴在QQ微信里，下面可能有链接打不开🔴<br>
+      🔴在QQ微信里，下面链接有可能打不开🔴<br>
     </td>
   </tr>
   
@@ -32,24 +33,24 @@
   
   <tr>
     <td align="left"><br>
-       <b>翻墙软件、VPN</b><br><br>
-       1、翻墙工具大全(有经验的自己慢慢找)：<a href="https://github.com/bannedbook/fanqiang/wiki#to-wjw"><u>点击访问</u></a><br><br>
-       2、无界浏览<br>
+       <b>翻墙软件、VPN</b><br><br> 
+       1、无界浏览<br>
        看被禁新闻，知中国真相。永久免费。<br>
        无界电脑版：<a href="https://raw.githubusercontent.com/osurf/osurf/master/u.rar"><u>下载地址1</u></a>，<a href="https://git.io/wj"><u>下载地址2</u></a>，<a href="http://git.io/HNvvvQ"><u>下载地址3</u></a><br>
        无界安卓版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/UM.apk"><u>下载地址1</u></a>，<a href="https://git.io/2S1IBQ"><u>下载地址2</u></a>，<a href="https://s3.amazonaws.com/wujie/um.htm"><u>下载地址3</u></a><br><br>
-       3、自由门<br>
+       2、自由门<br>
        看被禁新闻，知中国真相。永久免费。<br>
        自由门电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip"><u>下载地址1</u></a>，<a href="https://git.io/fgt"><u>下载地址2</u></a>，<a href="https://git.io/fgp"><u>下载地址3</u></a><br>
        自由门安卓版：<a href="https://git.io/fgma"><u>下载地址1</u></a><br><br>
-       4、蓝灯(Lantern)<br>
+       3、蓝灯(Lantern)<br>
        适合推特用户。<br>
        蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
        蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a><br><br>
-       5、赛风(Psiphon)<br>
+       4、赛风(Psiphon)<br>
        适合推特用户。<br>
        赛风电脑版：<a href="https://psiphon3.com/psiphon3.exe"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe">下载地址2</a><br>
        赛风安卓版：<a href="https://psiphon3.com/PsiphonAndroid.apk"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk">下载地址2</a><br><br>
+       5、翻墙工具大全(有经验的自己慢慢找)：<a href="https://github.com/bannedbook/fanqiang/wiki#to-wjw"><u>点击访问</u></a><br><br>
        6、火狐一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"><u>点击访问</u></a><br><br>
        7、谷歌一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"><u>点击访问</u></a><br><br>
     </td>
