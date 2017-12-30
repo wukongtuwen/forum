@@ -24,7 +24,7 @@
   <tr>
     <td align="left"><br>
      <b>悟空图文博客</b><br>
-     悟空图文博客（需翻墙）：<a href="https://wukongtuwen.blogspot.com">点击访问</a><br><br>
+     悟空图文博客（需<a href="#vpn">翻墙</a>）：<a href="https://wukongtuwen.blogspot.com">点击访问</a><br><br>
     </td>
   </tr>
   
@@ -34,7 +34,7 @@
      <b>悟空图文下载</b><br>
      全部悟空图文：<a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ"><u>下载地址1</u></a><br>
      下载说明：<br>
-     1、翻墙后右键点Download开始下；<br>
+     1、先<a href="#vpn">翻墙</a>，右键点Download开始下；<br>
      2、每晚零点前后上传当天的。
      <br><br>
     </td>
