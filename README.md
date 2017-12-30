@@ -12,27 +12,39 @@
   
   <tr>
     <td align="center">欢迎来到悟空图文<br>
-      本站网址永久有效，收藏后翻墙不再难<br>
       <a href="https://git.io/wktw1">https://git.io/wktw1</a><br>
+      请用电脑或手机浏览器打开本站<br>
+      否则QQ微信里可能有链接打不开<br>
       🔴上推特请下载<a href="#Lantern">蓝灯</a>或<a href="#Psiphon">赛风</a>🔴<br>
-      🔴请用电脑或手机浏览器打开本站🔴<br>
-      🔴下面可能有链接在QQ微信打不开🔴<br>
+      🔴禁书请去<a href="#bannedbook">禁书网</a>🔴<br>
+      🔴看被禁视频请去<a href="#ogate">网门</a>🔴<br>
     </td>
   </tr>
   
   
   <tr>
     <td align="left"><br>
-     <b>悟空图文下载</b><br><br>
-     全部悟空图文（每晚24:00前后上传当天的）：<a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ"><u>下载地址1</u></a><br>
-     说明：请先翻墙再下载。选中文件，右键点“Download”-“Standard Download”开始下。
+     <b>悟空图文博客</b><br>
+     悟空图文博客（需<a href="#vpn">翻墙</a>）：<a href="https://wukongtuwen.blogspot.com">点击访问</a><br><br>
+    </td>
+  </tr>
+  
+  
+  <tr>
+    <td align="left"><br>
+     <b>悟空图文下载</b><br>
+     全部悟空图文：<a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ"><u>下载地址1</u></a><br>
+     下载说明：<br>
+     1、先<a href="#vpn">翻墙</a>，右键点Download开始下；<br>
+     2、每晚零点前后上传当天的。
      <br><br>
     </td>
   </tr>
   
   
   <tr>
-    <td align="left"><br>
+    <td align="left">
+       <br name="vpn">
        <b>翻墙软件、VPN</b><br><br> 
        1、无界浏览<br>
        看被禁新闻，知中国真相。永久免费。<br>
@@ -60,6 +72,7 @@
   
    <tr>
     <td align="center">
+    <br name="ogate">
     <img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" style="max-width:100%;"><br>
       欢迎访问网门<br>
       下载网门安卓版，更快更方便<br><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" rel="nofollow">https://git.io/ogatea2</a><br>
@@ -74,12 +87,14 @@
       <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=oGate" rel="nofollow">入口</a>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=oGate" rel="nofollow">入口</a><br>
       微信如提示停止访问该网页，须<br>
-      先点击右上角，选择浏览器打开<br>
+      先点击右上角，选择浏览器打开<br><br>
     </td>
   </tr>
   
+  
   <tr>
-    <td align="left"><br>
+    <td align="left">
+     <br name="bannedbook">
      <b>禁书下载</b><br>
      请先使用上面翻墙软件翻墙，再访问禁书网，禁书应有尽有：<a href="https://www.bannedbook.org/">点击访问</a><br><br>
     </td>
@@ -94,6 +109,14 @@
     </td>
   </tr>
 
+
+  <tr>
+    <td align="left"><br>
+     <b>意见反馈</b><br>
+     请致信：wukongtuwen@gmail.com<br><br>
+    </td>
+  </tr>
+  
   
 </tbody>
 </table>    
