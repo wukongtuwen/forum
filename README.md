@@ -14,7 +14,7 @@
     <td align="center">欢迎来到悟空图文<br>
       <a href="https://git.io/wktw1">https://git.io/wktw1</a><br>
       请用电脑或手机浏览器打开本站<br>
-      下面可能有链接在QQ微信打不开<br>
+      否则QQ微信里可能有链接打不开<br>
       🔴上推特请下载<a href="#Lantern">蓝灯</a>或<a href="#Psiphon">赛风</a>🔴<br>
       🔴禁书请去<a href="#bannedbook">禁书网</a>🔴<br>
       🔴看被禁视频请去<a href="#ogate">网门</a>🔴<br>
