@@ -78,7 +78,7 @@
   <tr>
     <td align="left"><br>
      <b>禁书下载</b><br>
-     请先翻墙，再访问禁书网，禁书应有尽有：<a href="https://www.bannedbook.org/">点击访问</a><br><br>
+     请先使用上面翻墙软件翻墙，再访问禁书网，禁书应有尽有：<a href="https://www.bannedbook.org/">点击访问</a><br><br>
     </td>
   </tr>
  
