@@ -12,10 +12,10 @@
   
   <tr>
     <td align="center">欢迎来到悟空图文<br>
-      本站网址永久有效，收藏后翻墙不再难：<br>
+      本站网址永久有效，收藏后翻墙不再难<br>
       <a href="https://git.io/wktw1">https://git.io/wktw1</a><br>
       🔴上推特请下载<a href="#Lantern">蓝灯</a>或<a href="#Psiphon">赛风</a>🔴<br>
-      🔴请尽量用电脑或手机浏览器打开本站🔴<br>
+      🔴请用电脑或手机浏览器打开本站🔴<br>
       🔴下面可能有链接在QQ微信打不开🔴<br>
     </td>
   </tr>
