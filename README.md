@@ -25,8 +25,8 @@
   <tr>
     <td align="left"><br>
      <b>全部悟空图文下载：</b><br>
-     <a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC"><u>下载地址1</u></a>（打开后往下拉一点）<br>
-     <a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ"><u>下载地址2</u></a>（需先<a href="#vpn">翻墙</a>）<br><br>
+     <a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC"><u>下载地址1</u></a>(免翻墙，打开后拉至底部)<br>
+     <a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ"><u>下载地址2</u></a>(需<a href="#vpn">翻墙</a>，打开后右键点击)<br><br>
     </td>
   </tr>
   
@@ -34,7 +34,7 @@
   <tr>
     <td align="left"><br>
      <b>悟空图文博客</b><br>
-     悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>（需先<a href="#vpn">翻墙</a>）<br><br>
+     悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
     </td>
   </tr>
   
