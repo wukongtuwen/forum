@@ -24,20 +24,17 @@
   
   <tr>
     <td align="left"><br>
-     <b>悟空图文博客</b><br>
-     悟空图文博客（需<a href="#vpn">翻墙</a>）：<a href="https://wukongtuwen.blogspot.com">点击访问</a><br><br>
+     <b>全部悟空图文下载：</b><br>
+     <a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC"><u>下载地址1</u></a>（打开后往下拉一点）<br>
+     <a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ"><u>下载地址2</u></a>（需先<a href="#vpn">翻墙</a>）<br><br>
     </td>
   </tr>
   
-  
+    
   <tr>
     <td align="left"><br>
-     <b>悟空图文下载</b><br>
-     全部悟空图文：<a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ"><u>下载地址1</u></a><br>
-     下载说明：<br>
-     1、先<a href="#vpn">翻墙</a>，右键点Download开始下；<br>
-     2、每晚零点前后上传当天的。
-     <br><br>
+     <b>悟空图文博客</b><br>
+     悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>（需先<a href="#vpn">翻墙</a>）<br><br>
     </td>
   </tr>
   
@@ -69,6 +66,7 @@
        7、谷歌一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"><u>点击访问</u></a><br><br>
     </td>
   </tr>
+  
   
    <tr>
     <td align="center">
