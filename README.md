@@ -34,7 +34,7 @@
   <tr>
     <td align="left"><br>
      <b>悟空图文博客</b><br>
-     悟空图文博客（需先<a href="#vpn">翻墙</a>）：<a href="https://wukongtuwen.blogspot.com">点击访问</a><br><br>
+     悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>（需先<a href="#vpn">翻墙</a>）<br><br>
     </td>
   </tr>
   
