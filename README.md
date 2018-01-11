@@ -69,8 +69,8 @@
   
   
    <tr>
-    <td align="center">
     <br name="ogate">
+    <td align="center">    
     <img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" style="max-width:100%;"><br>
       欢迎访问网门<br>
       下载网门安卓版，更快更方便<br><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" rel="nofollow">https://git.io/ogatea2</a><br>
@@ -91,8 +91,8 @@
   
   
   <tr>
-    <td align="left">
-     <br name="bannedbook">
+    <br name="bannedbook">
+    <td align="left"> 
      <b>禁书下载</b><br>
      请先使用上面翻墙软件翻墙，再访问禁书网，禁书应有尽有：<a href="https://www.bannedbook.org/">点击访问</a><br><br>
     </td>
