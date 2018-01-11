@@ -52,16 +52,16 @@
        自由门电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip"><u>下载地址1</u></a>，<a href="https://git.io/fgt"><u>下载地址2</u></a>，<a href="https://git.io/fgp"><u>下载地址3</u></a><br>
        自由门安卓版：<a href="https://git.io/fgma"><u>下载地址1</u></a><br>
        <br name="Lantern">
-       3、蓝灯(Lantern)<br>
+       3、翻墙工具大全(有经验的自己慢慢找)：<a href="https://github.com/bannedbook/fanqiang/wiki#to-wjw"><u>点击访问</u></a><br><br>
+       4、蓝灯(Lantern)<br>
        适合推特用户。<br>
        蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
        蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a><br>
        <br name="Psiphon">
-       4、赛风(Psiphon)<br>
+       5、赛风(Psiphon)<br>
        适合推特用户。<br>
        赛风电脑版：<a href="https://psiphon3.com/psiphon3.exe"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe">下载地址2</a><br>
        赛风安卓版：<a href="https://psiphon3.com/PsiphonAndroid.apk"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk">下载地址2</a><br><br>
-       5、翻墙工具大全(有经验的自己慢慢找)：<a href="https://github.com/bannedbook/fanqiang/wiki#to-wjw"><u>点击访问</u></a><br><br>
        6、火狐一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"><u>点击访问</u></a><br><br>
        7、谷歌一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"><u>点击访问</u></a><br><br>
     </td>
