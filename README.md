@@ -51,7 +51,7 @@
        看被禁新闻，知中国真相。永久免费。<br>
        自由门电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip"><u>下载地址1</u></a>，<a href="https://git.io/fgt"><u>下载地址2</u></a>，<a href="https://git.io/fgp"><u>下载地址3</u></a><br>
        自由门安卓版：<a href="https://git.io/fgma"><u>下载地址1</u></a><br><br>
-       3、翻墙工具大全(有经验的自己慢慢找)：<a href="https://github.com/bannedbook/fanqiang/wiki#to-wjw"><u>点击访问</u></a><br>
+       3、翻墙工具大全(有经验的自己慢慢找)：<a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC"><u>点击访问</u></a><br>
        <br name="Lantern">
        4、蓝灯(Lantern)<br>
        适合推特用户。<br>
