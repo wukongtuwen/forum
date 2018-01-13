@@ -33,7 +33,8 @@
     
   <tr>
     <td align="left"><br>
-     <b>悟空图文博客</b><br>
+     <b>官方平台</b><br>
+     悟空图文推特：<a href="https://twitter.com/wukongtuwen">点击访问</a>(需<a href="#vpn">翻墙</a>)<br>
      悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
     </td>
   </tr>
