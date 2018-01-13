@@ -12,7 +12,7 @@
   
   <tr>
     <td align="center">欢迎来到悟空图文<br>
-      <a href="https://git.io/wktw1">https://git.io/wktw1</a><br>
+      <a href="#">https://git.io/wktw1</a><br>
       请用电脑或手机浏览器打开本站<br>
       否则QQ微信里可能有链接打不开<br>
       🔴上推特请下载<a href="#Lantern">蓝灯</a>或<a href="#Psiphon">赛风</a>🔴<br>
@@ -33,7 +33,8 @@
     
   <tr>
     <td align="left"><br>
-     <b>悟空图文博客</b><br>
+     <b>悟空图文官方平台：</b><br>
+     悟空图文推特：<a href="https://twitter.com/wukongtuwen">点击访问</a>(需<a href="#vpn">翻墙</a>)<br>
      悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
     </td>
   </tr>
