@@ -95,9 +95,9 @@
     <td align="left"> 
      <br name="bannedbook">
      <b>禁书禁闻网</b><br>
-     <a href="https://aa.cuanpu.us/"><u>禁闻直连1</u></a>(免翻墙)<br>
-     <a href="https://ab.cuanpu.us/"><u>禁闻直连2</u></a>(免翻墙)<br>
-     <a href="https://www.bannedbook.org/">禁闻直连3</a>(需<a href="#vpn">翻墙</a>)<br><br>
+     禁闻直连-镜像1：<a href="https://aa.cuanpu.us/"><u>点击访问</u></a>(免翻墙)<br>
+     禁闻直连-镜像2：<a href="https://ab.cuanpu.us/"><u>点击访问</u></a>(免翻墙)<br>
+     禁书网海外官网：<a href="https://www.bannedbook.org/">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
     </td>
   </tr>
  
