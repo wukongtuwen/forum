@@ -42,7 +42,7 @@
      <a href="https://git.io/jw2" rel="nofollow"><u>入口1</u></a>，<a href="https://git.io/gfree" rel="nofollow"><u>入口2</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>入口3</u></a><br>
      点击入口1，再点“自由上网入口”<br>
      点击入口23，再点“动态网”<br>
-    </td>
+    </td><br>
   </tr>
   
  
@@ -57,7 +57,7 @@
      <a href="https://git.io/gfree" rel="nofollow"><u>入口3</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>入口4</u></a><br>
      点击入口12，再点“备用网址”<br>
      点击入口34，再点“禁书网”<br>
-    </td>
+    </td><br>
   </tr>
   
 
