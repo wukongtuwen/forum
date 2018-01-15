@@ -35,7 +35,7 @@
   <tr>
     <td align="center"> 
      <br name="dtw">
-     <img src="https://user-images.githubusercontent.com/33987457/34963207-48aeb4ca-fa82-11e7-8715-b7c8f9dee9d6.png" style="max-width:100%;"><br>
+     <img src="https://user-images.githubusercontent.com/33987457/34963548-1d630d1e-fa84-11e7-90bf-b19621f43f9c.jpg" style="max-width:100%;"><br>
      欢迎访问动态网<br>
      下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/dweb.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/dweb.apk" rel="nofollow">下载地址2</a><br>
      点击下列入口，均可进入动态网<br>
