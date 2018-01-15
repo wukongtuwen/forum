@@ -45,12 +45,11 @@
     <td align="center"> 
      <br name="bannedbook">
      <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
-     禁闻直连1：<a href="https://aa.cuanpu.us/"><u>点击访问</u></a>(打开后再点备用网址)<br>
-     禁闻直连2：<a href="https://ab.cuanpu.us/"><u>点击访问</u></a>(打开后再点备用网址)<br>
-     禁闻直连3：<a href="http://jyg.fm98.cf/16"><u>点击访问</u></a>(免翻墙)<br>
-     禁闻直连4：<a href="http://sj.fs32.tk/16"><u>点击访问</u></a>(免翻墙)<br>
-     禁闻直连5：<a href="http://rnqvx.bockhctr.cf/01dtw"><u>点击访问</u></a>(免翻墙)<br>
-     禁闻直连6：<a href="http://tz.fxsa.ga/20171221"><u>点击访问</u></a>(免翻墙)<br>
+     禁闻直连1：<a href="https://aa.cuanpu.us/"><u>点击访问</u></a>(打开后点“备用网址”)<br>
+     禁闻直连2：<a href="https://ab.cuanpu.us/"><u>点击访问</u></a>(打开后点“备用网址”)<br>
+     禁闻直连3：<a href="https://git.io/gfree"><u>点击访问</u></a>(打开后点“禁书网”)<br>
+     禁闻直连4：<a href="https://git.io/jw1"><u>点击访问</u></a>(打开后点“禁书网”)<br>
+     禁闻直连5：<a href="https://git.io/jw2"><u>点击访问</u></a>(打开后点“自由上网入口”)<br>
      中国禁书禁闻网：<a href="https://www.bannedbook.org/">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
     </td>
   </tr>
