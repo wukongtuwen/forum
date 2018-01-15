@@ -112,12 +112,12 @@
        赛风电脑版：<a href="https://psiphon3.com/psiphon3.exe" rel="nofollow"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe" rel="nofollow">下载地址2</a><br>
        赛风安卓版：<a href="https://psiphon3.com/PsiphonAndroid.apk" rel="nofollow"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk" rel="nofollow">下载地址2</a><br><br>
        6、火狐一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br><br>
-       7、谷歌一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br>
+       7、谷歌一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br><br>
     </td>
   </tr>
   
   <tr>
-    <td align="left"><br>
+    <td align="left">
      <br name="bannedvideo">
      <b>▶ 大陆禁片 · 在线观看或下载</b><br><br>
      <a href="https://d229rk9l49nnml.cloudfront.net/falsefire.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/19641471/17117230/38bad78a-5289-11e6-8790-1230d796c19e.jpg" width="317" height="123"></a>
@@ -154,13 +154,13 @@
      <b>▶ 其它精彩内容 · 在线观看或下载</b><br><br>
      <a href="https://github.com/tomalltruthforyou/truth/issues/23" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/17000494/5a1ff192-4eb2-11e6-9d1a-4a17e44720b7.jpg" width="200"></a>
      <a href="https://github.com/tomalltruthforyou/weekly/blob/master/README.md" target="_blank"><img src="https://raw.githubusercontent.com/xjy16/books/master/cover/xjy558.jpg" width="210"></a>
-     <a href="https://github.com/tomalltruthforyou/truth/issues/17" target="_blank"><img src="https://github.com/xjy16/books/blob/master/cover/XS-18s.jpg" width="210"></a><br>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/17" target="_blank"><img src="https://github.com/xjy16/books/blob/master/cover/XS-18s.jpg" width="210"></a><br><br>
     </td>
   </tr>
      
      
   <tr>
-    <td align="left"><br>
+    <td align="left">
      <br name="st">
      <b>▶ 我要三退</b><br><br>
      <a href="https://d225dz4ufcfbcz.cloudfront.net/santui/index.html" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14402060/1958dbe8-fe6b-11e5-8899-833073b01eee.jpg" width="412" height="160"></a>
