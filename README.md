@@ -25,21 +25,26 @@
   <tr>
     <td align="left"><br>
      <b>全部悟空图文下载：</b><br>
-     <a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC"><u>下载地址1</u></a>(免翻墙，打开后拉至底部)<br>
-     <a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ"><u>下载地址2</u></a>(需<a href="#vpn">翻墙</a>，打开后右键点击)<br><br>
+     <a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC" rel="nofollow"><u>下载地址1</u></a>(免翻墙，打开后拉至底部)<br>
+     <a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ" rel="nofollow"><u>下载地址2</u></a>(需<a href="#vpn">翻墙</a>，打开后右键点击)<br><br>
     </td>
   </tr>
-  
-    
+ 
+ 
   <tr>
-    <td align="left"><br>
-     <b>悟空图文官方平台：</b><br>
-     悟空图文推特：<a href="https://twitter.com/wukongtuwen">点击访问</a>(需<a href="#vpn">翻墙</a>)<br>
-     悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
+    <td align="center"> 
+     <br name="dongtaiwang">
+     <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
+     欢迎访问动态网<br>
+     下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/dweb.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/dweb.apk" rel="nofollow">下载地址2</a><br>
+     点击下列入口，均可进入动态网<br>
+     <a href="https://git.io/jw2" rel="nofollow"><u>入口1</u></a>，<a href="https://git.io/gfree" rel="nofollow"><u>入口2</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>入口3</u></a><br>
+     点击入口1，再点“自由上网入口”<br>
+     点击入口23，再点“动态网”<br>
     </td>
   </tr>
   
-
+ 
   <tr>
     <td align="center"> 
      <br name="bannedbook">
@@ -49,8 +54,8 @@
      点击下列入口，均可进入禁书禁闻网<br>
      <a href="https://aa.cuanpu.us/" rel="nofollow"><u>入口1</u></a>，<a href="https://ab.cuanpu.us/" rel="nofollow"><u>入口2</u></a><br>
      <a href="https://git.io/gfree" rel="nofollow"><u>入口3</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>入口4</u></a><br>
-     打开入口12，点“备用网址”<br>
-     打开入口34，点“禁书网”<br>
+     点击入口12，再点“备用网址”<br>
+     点击入口34，再点“禁书网”<br>
     </td>
   </tr>
   
@@ -102,6 +107,15 @@
        赛风安卓版：<a href="https://psiphon3.com/PsiphonAndroid.apk" rel="nofollow"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk" rel="nofollow">下载地址2</a><br><br>
        6、火狐一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br><br>
        7、谷歌一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br><br>
+    </td>
+  </tr>
+  
+      
+  <tr>
+    <td align="left"><br>
+     <b>悟空图文官方平台：</b><br>
+     悟空图文推特：<a href="https://twitter.com/wukongtuwen">点击访问</a>(需<a href="#vpn">翻墙</a>)<br>
+     悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
     </td>
   </tr>
   
