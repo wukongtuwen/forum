@@ -70,7 +70,7 @@
   
   
   <tr>
-    <td align="left"> 
+    <td align="center"> 
      <br name="bannedbook">
      <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
      禁闻直连-镜像1：<a href="https://aa.cuanpu.us/"><u>点击访问</u></a>(免翻墙)<br>
