@@ -17,8 +17,8 @@
       否则QQ微信里可能有链接打不开<br>
       🔴看中国动态请去<a href="#dtw">动态网</a>🔴<br>
       🔴看禁书禁闻请去<a href="#bannedbook">禁书禁闻网</a>🔴<br>
-      🔴看禁闻视频请去<a href="#ogate">网门</a>🔴<br> 
-      🔴稳定上外网请下载<a href="#vpn">翻墙软件、VPN</a>🔴<br>
+      🔴看被禁视频请去<a href="#ogate">网门</a>🔴<br> 
+      🔴稳定上外网请下载<a href="#vpn">翻墙软件</a>🔴<br>
       🔴看经典禁片请去<a href="#bannedvideo">大陆禁片</a>🔴<br> 
       🔴三退自救请去<a href="#st">我要三退</a>🔴<br>
     </td>
