@@ -46,7 +46,8 @@
      <br name="bannedbook">
      <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
      欢迎访问禁书禁闻网<br>
-     下载网门安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/jinwen.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/jinwen.apk" rel="nofollow">下载地址2</a><br>
+     下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/jinwen.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/jinwen.apk" rel="nofollow">下载地址2</a><br>
+     点击下列直连，均可进入禁书禁闻网<br>
      禁闻直连1：<a href="https://aa.cuanpu.us/" rel="nofollow"><u>点击访问</u></a>(打开后点“备用网址”)<br>
      禁闻直连2：<a href="https://ab.cuanpu.us/" rel="nofollow"><u>点击访问</u></a>(打开后点“备用网址”)<br>
      禁闻直连3：<a href="https://git.io/gfree" rel="nofollow"><u>点击访问</u></a>(打开后点“禁书网”)<br>
@@ -62,8 +63,8 @@
     <br name="ogate">
     <img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" style="max-width:100%;"><br>
       欢迎访问网门<br>
-      下载网门安卓版，更快更方便<br><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" rel="nofollow">https://git.io/ogatea2</a><br>
-      点击不同入口，均可进入动态网址<br>
+      下载安卓版，更快更方便<br><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" rel="nofollow">https://git.io/ogatea2</a><br>
+      点击下列入口，均可进入动态网址<br>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=oGate" rel="nofollow">入口</a>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=oGate" rel="nofollow">入口</a>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=oGate" rel="nofollow">入口</a><br>
