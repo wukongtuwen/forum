@@ -181,7 +181,8 @@
   <tr>
     <td align="left"><br>
      <b>意见反馈</b><br>
-     有问题请致信：wukongtuwen@gmail.com<br><br>
+     如发现本站有任何问题，或有好的意见建议，欢迎致信：<br>
+     wukongtuwen@gmail.com<br><br>
     </td>
   </tr>
   
