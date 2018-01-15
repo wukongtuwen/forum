@@ -49,9 +49,9 @@
      下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/jinwen.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/jinwen.apk" rel="nofollow">下载地址2</a><br>
      点击下列直连，均可进入禁书禁闻网<br>
      <a href="https://aa.cuanpu.us/" rel="nofollow"><u>直连1</u></a>，<a href="https://ab.cuanpu.us/" rel="nofollow"><u>直连2</u></a><br>
-     (打开后，再点“备用网址”)
+     (打开后，再点“备用网址”)<br>
      <a href="https://git.io/gfree" rel="nofollow"><u>直连3</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>直连4</u></a><br>
-     (打开后，再点“禁书网”)
+     (打开后，再点“禁书网”)<br>
      <a href="https://git.io/jw2" rel="nofollow"><u>直连5</u></a><br>
      (打开后，再点“自由上网入口”)<br>
      中国禁书禁闻网：<a href="https://www.bannedbook.org/">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
