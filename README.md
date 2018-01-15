@@ -15,8 +15,9 @@
       <a href="#">https://git.io/wktw1</a><br>
       请用电脑或手机浏览器打开本站<br>
       否则QQ微信里可能有链接打不开<br>
-      🔴看禁闻视频请去<a href="#ogate">网门</a>🔴<br>
+      🔴看中国动态请去<a href="#dtw">动态网</a>🔴<br>
       🔴看禁书禁闻请去<a href="#bannedbook">禁书禁闻网</a>🔴<br>
+      🔴看禁闻视频请去<a href="#ogate">网门</a>🔴<br> 
       🔴上推特请下载<a href="#Lantern">蓝灯</a>或<a href="#Psiphon">赛风</a>🔴<br>
     </td>
   </tr>
@@ -33,8 +34,8 @@
  
   <tr>
     <td align="center"> 
-     <br name="dongtaiwang">
-     <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
+     <br name="dtw">
+     <img src="https://user-images.githubusercontent.com/33987457/34963207-48aeb4ca-fa82-11e7-8715-b7c8f9dee9d6.png" style="max-width:100%;"><br>
      欢迎访问动态网<br>
      下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/dweb.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/dweb.apk" rel="nofollow">下载地址2</a><br>
      点击下列入口，均可进入动态网<br>
