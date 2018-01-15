@@ -15,9 +15,9 @@
       <a href="#">https://git.io/wktw1</a><br>
       请用电脑或手机浏览器打开本站<br>
       否则QQ微信里可能有链接打不开<br>
-      🔴上推特请下载<a href="#Lantern">蓝灯</a>或<a href="#Psiphon">赛风</a>🔴<br>
-      🔴看禁书禁闻请去<a href="#bannedbook">禁书禁闻网</a>🔴<br>
       🔴看禁闻视频请去<a href="#ogate">网门</a>🔴<br>
+      🔴看禁书禁闻请去<a href="#bannedbook">禁书禁闻网</a>🔴<br>
+      🔴上推特请下载<a href="#Lantern">蓝灯</a>或<a href="#Psiphon">赛风</a>🔴<br>
     </td>
   </tr>
   
