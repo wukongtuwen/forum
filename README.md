@@ -40,6 +40,44 @@
   </tr>
   
   
+  
+  <tr>
+    <td align="center"> 
+     <br name="bannedbook">
+     <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
+     禁闻直连-镜像1：<a href="https://aa.cuanpu.us/"><u>点击访问</u></a>(免翻墙)<br>
+     禁闻直连-镜像2：<a href="https://ab.cuanpu.us/"><u>点击访问</u></a>(免翻墙)<br>
+     禁闻直连-镜像3：<a href="http://jyg.fm98.cf/16"><u>点击访问</u></a>(免翻墙)<br>
+     禁闻直连-镜像4：<a href="http://sj.fs32.tk/16"><u>点击访问</u></a>(免翻墙)<br>
+     禁闻直连-镜像5：<a href="http://rnqvx.bockhctr.cf/01dtw"><u>点击访问</u></a>(免翻墙)<br>
+     禁闻直连-镜像6：<a href="http://tz.fxsa.ga/20171221"><u>点击访问</u></a>(免翻墙)<br>
+     中国禁书禁闻网：<a href="https://www.bannedbook.org/">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
+    </td>
+  </tr>
+   
+  
+   <tr>
+    <td align="center">  
+    <br name="ogate">
+    <img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" style="max-width:100%;"><br>
+      欢迎访问网门<br>
+      下载网门安卓版，更快更方便<br><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" rel="nofollow">https://git.io/ogatea2</a><br>
+      点击不同入口，均可进入动态网址<br>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=oGate" rel="nofollow">入口</a>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=oGate" rel="nofollow">入口</a>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=oGate" rel="nofollow">入口</a><br>
+      <a href="https://s3-us-west-1.amazonaws.com/ogaten/oGate.htm?from=oGate" rel="nofollow">入口</a>
+      <a href="https://s3.us-east-2.amazonaws.com/ogateh/oGate.htm?from=oGate" rel="nofollow">入口</a>
+      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=oGate" rel="nofollow">入口</a><br>     
+      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=oGate" rel="nofollow">入口</a>
+      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=oGate" rel="nofollow">入口</a>
+      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=oGate" rel="nofollow">入口</a><br>
+      微信如提示停止访问该网页，须<br>
+      先点击右上角，选择浏览器打开<br><br>
+    </td>
+  </tr>
+  
+  
   <tr>
     <td align="left">
        <br name="vpn">
@@ -68,38 +106,6 @@
     </td>
   </tr>
   
-  
-  <tr>
-    <td align="center"> 
-     <br name="bannedbook">
-     <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
-     禁闻直连-镜像1：<a href="https://aa.cuanpu.us/"><u>点击访问</u></a>(免翻墙)<br>
-     禁闻直连-镜像2：<a href="https://ab.cuanpu.us/"><u>点击访问</u></a>(免翻墙)<br>
-     禁书网海外官网：<a href="https://www.bannedbook.org/">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
-    </td>
-  </tr>
-   
-  
-   <tr>
-    <td align="center">  
-    <br name="ogate">
-    <img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" style="max-width:100%;"><br>
-      欢迎访问网门<br>
-      下载网门安卓版，更快更方便<br><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk" rel="nofollow">https://git.io/ogatea2</a><br>
-      点击不同入口，均可进入动态网址<br>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=oGate" rel="nofollow">入口</a>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=oGate" rel="nofollow">入口</a>
-      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=oGate" rel="nofollow">入口</a><br>
-      <a href="https://s3-us-west-1.amazonaws.com/ogaten/oGate.htm?from=oGate" rel="nofollow">入口</a>
-      <a href="https://s3.us-east-2.amazonaws.com/ogateh/oGate.htm?from=oGate" rel="nofollow">入口</a>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=oGate" rel="nofollow">入口</a><br>     
-      <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=oGate" rel="nofollow">入口</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?from=oGate" rel="nofollow">入口</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=oGate" rel="nofollow">入口</a><br>
-      微信如提示停止访问该网页，须<br>
-      先点击右上角，选择浏览器打开<br><br>
-    </td>
-  </tr>
   
    <tr>
     <td align="left"><br>
