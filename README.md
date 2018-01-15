@@ -111,7 +111,49 @@
     </td>
   </tr>
   
-      
+  <tr>
+    <td align="left"><br>
+     ### ▶ 大陆禁片 · 在线观看或下载
+     <a href="https://d36twsqkt5gsfh.cloudfront.net/TenYears.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/24839781/6bb1dc52-1d26-11e7-837d-0e08741a315b.jpg" width="317" height="123"></a>
+     <a href="https://d36twsqkt5gsfh.cloudfront.net/TieZheng.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/24839780/6baeb8d8-1d26-11e7-9da8-406fed93980c.jpg" width="317" height="123"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/2" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/16539004/df8f319a-4024-11e6-9584-67c22b06b3fe.jpg" width="317" height="123"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/3" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14375612/ea4de28c-fda5-11e5-98cd-3d62dbc535ef.jpg" width="317" height="123"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/20" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/15447859/364d5398-1f93-11e6-9688-e715efe6ab75.jpg" width="317" height="123"></a>
+     <a href="https://d229rk9l49nnml.cloudfront.net/cangzishi.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14375609/ea4c21fe-fda5-11e5-95f8-c123c2420cb8.jpg" width="317" height="123"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/22" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/15658078/8fe5ba2e-26a7-11e6-8254-4465cbb8e2a9.jpg" width="317" height="123"></a>
+     <a href="https://d229rk9l49nnml.cloudfront.net/1400.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/15915122/31408db0-2dd6-11e6-8943-8619a37e1722.jpg" width="317" height="123"></a>
+     <a href="https://d229rk9l49nnml.cloudfront.net/renzewanwu.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14478264/6c985fce-0157-11e6-809d-5f22d3d8357c.jpg" width="317" height="123"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/25" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14375610/ea4c32c0-fda5-11e5-9fe0-3a1f6dd7c0f3.jpg" width="317" height="123"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/21" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/17471431/987d0e7c-5d33-11e6-9ed3-a4761ad694fa.jpg" width="317" height="123"></a>
+     <a href="https://d229rk9l49nnml.cloudfront.net/journey.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14375611/ea4d7e78-fda5-11e5-87d7-5f4b2e73c876.jpg" width="317" height="123"></a>
+     ### ▶ 音频集锦 · 在线收听及下载
+     <a href="https://d225dz4ufcfbcz.cloudfront.net/audio/listaudio9ping.asp" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14375427/96fb8aea-fda4-11e5-9770-7c14db54ee08.jpg" width="317" height="91"></a>
+     <a href="https://d225dz4ufcfbcz.cloudfront.net/audio/listaudiojtdwh.asp" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14375426/96fb5e9e-fda4-11e5-93fa-cd0805485aa8.jpg" width="317" height="91"></a>
+     <a href="https://d225dz4ufcfbcz.cloudfront.net/audio/listaudiomtdwh.asp" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14375428/97321d8a-fda4-11e5-9b67-596dcfdf3308.jpg" width="317" height="91"></a>
+     ### ▶ 我要三退
+     <a href="https://d225dz4ufcfbcz.cloudfront.net/santui/index.html" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14402060/1958dbe8-fe6b-11e5-8899-833073b01eee.jpg" width="412" height="160"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/24" target="_blank"><img src="https://cloud.githubusercontent.com/assets/19661132/18463039/21e6a12c-7955-11e6-8296-d97a8015ee71.jpg" height="160"></a>
+     ### ▶ 明慧特刊 · 在线阅读或下载
+     <a href="https://github.com/tomalltruthforyou/TrueFLG" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14665391/324db610-0716-11e6-9f28-77dbd86675a2.jpg" ></a>  <a href="https://github.com/tomalltruthforyou/ExposeLies" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14279508/e4bedbf0-fb70-11e5-8a1f-32df4ef4d39d.jpg"></a>  <a href="https://github.com/tomalltruthforyou/QuitCCP" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14279499/e485d0f8-fb70-11e5-8859-1c8f5f22d48c.jpg" ></a>  <a href="https://github.com/tomalltruthforyou/OrganHarvest" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/16735909/59fc59d8-477a-11e6-8eb1-5c82b247c20c.jpg" ></a>  <a href="https://github.com/tomalltruthforyou/Retribution" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14665390/324bada2-0716-11e6-9c9a-982f61722b93.jpg" ></a> 
+     ### ▶ 明慧期刊 · 在线阅读或下载
+     <a href="https://github.com/tomalltruthforyou/truth/issues/7" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/26338358/00157224-3f45-11e7-84e0-e0959ad95de8.jpg" width="100" height="142"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/6" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/26750682/41dac7ca-47ee-11e7-9714-bb6ebd7fbd11.jpg" width="100" height="142"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/8" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/23082611/b928e6d0-f51f-11e6-9949-d51f43f88183.jpg" width="100" height="142"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/15" target="_blank"><img src="https://user-images.githubusercontent.com/28036978/27419703-553188ac-56f0-11e7-9fd8-667dc0499cf4.jpg" width="100" height="142"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/16" target="_blank"><img src="https://user-images.githubusercontent.com/18081243/28678329-b87025f0-72b5-11e7-9790-59b6c245b807.jpg" width="100" height="142"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/26" target="_blank"><img src="https://user-images.githubusercontent.com/18081243/28678328-b86efce8-72b5-11e7-8a6f-0899e25e10a3.jpg" width="100" height="142"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/27" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/22404285/2d11cec2-e5f3-11e6-8037-9c4e81ffb362.jpg" width="100" height="142"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/12" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14400894/4698562e-fe43-11e5-8234-a85a86def324.JPG" width="100" height="142"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/14" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/21575113/c2fa3f34-cef9-11e6-9c3b-88f6d260405f.jpg" width="100" height="142"></a>
+     <a href="https://d1zsng9cxdrwyc.cloudfront.net/MH/chenxi/chenxi-69.pdf" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14400739/77d82136-fe40-11e5-8b7e-bd9cc5d33e3c.JPG" width="100" height="142"></a>
+     ### ▶ 其它精彩内容 · 在线观看或下载
+     <a href="https://github.com/tomalltruthforyou/truth/issues/23" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/17000494/5a1ff192-4eb2-11e6-9d1a-4a17e44720b7.jpg" width="200"></a>
+     <a href="https://github.com/tomalltruthforyou/weekly/blob/master/README.md" target="_blank"><img src="https://raw.githubusercontent.com/xjy16/books/master/cover/xjy558.jpg" width="210"></a>
+     <a href="https://github.com/tomalltruthforyou/truth/issues/17" target="_blank"><img src="https://github.com/xjy16/books/blob/master/cover/XS-18s.jpg" width="210"></a>
+    </td>
+  </tr>
+     
+     
   <tr>
     <td align="left"><br>
      <b>悟空图文官方平台：</b><br>
@@ -119,7 +161,6 @@
      悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
     </td>
   </tr>
-  
   
    <tr>
     <td align="left"><br>
