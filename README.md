@@ -49,7 +49,8 @@
      点击下列入口，均可进入禁书禁闻网<br>
      <a href="https://aa.cuanpu.us/" rel="nofollow"><u>入口1</u></a>，<a href="https://ab.cuanpu.us/" rel="nofollow"><u>入口2</u></a><br>
      <a href="https://git.io/gfree" rel="nofollow"><u>入口3</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>入口4</u></a><br>
-     打开入口12，点“备用网址”。打开入口34，点“禁书网”<br>
+     打开入口12，点“备用网址”<br>
+     打开入口34，点“禁书网”<br>
     </td>
   </tr>
   
