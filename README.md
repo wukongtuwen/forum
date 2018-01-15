@@ -45,11 +45,13 @@
     <td align="center"> 
      <br name="bannedbook">
      <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
-     禁闻直连1：<a href="https://aa.cuanpu.us/"><u>点击访问</u></a>(打开后点“备用网址”)<br>
-     禁闻直连2：<a href="https://ab.cuanpu.us/"><u>点击访问</u></a>(打开后点“备用网址”)<br>
-     禁闻直连3：<a href="https://git.io/gfree"><u>点击访问</u></a>(打开后点“禁书网”)<br>
-     禁闻直连4：<a href="https://git.io/jw1"><u>点击访问</u></a>(打开后点“禁书网”)<br>
-     禁闻直连5：<a href="https://git.io/jw2"><u>点击访问</u></a>(打开后点“自由上网入口”)<br>
+     欢迎访问禁书禁闻网<br>
+     下载网门安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/jinwen.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/jinwen.apk" rel="nofollow">下载地址2</a><br>
+     禁闻直连1：<a href="https://aa.cuanpu.us/" rel="nofollow"><u>点击访问</u></a>(打开后点“备用网址”)<br>
+     禁闻直连2：<a href="https://ab.cuanpu.us/" rel="nofollow"><u>点击访问</u></a>(打开后点“备用网址”)<br>
+     禁闻直连3：<a href="https://git.io/gfree" rel="nofollow"><u>点击访问</u></a>(打开后点“禁书网”)<br>
+     禁闻直连4：<a href="https://git.io/jw1" rel="nofollow"><u>点击访问</u></a>(打开后点“禁书网”)<br>
+     禁闻直连5：<a href="https://git.io/jw2" rel="nofollow"><u>点击访问</u></a>(打开后点“自由上网入口”)<br>
      中国禁书禁闻网：<a href="https://www.bannedbook.org/">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
     </td>
   </tr>
@@ -83,25 +85,25 @@
        <b>翻墙软件、VPN</b><br><br> 
        1、无界浏览<br>
        看被禁新闻，知中国真相。永久免费。<br>
-       无界电脑版：<a href="https://raw.githubusercontent.com/osurf/osurf/master/u.rar"><u>下载地址1</u></a>，<a href="https://git.io/wj"><u>下载地址2</u></a>，<a href="http://git.io/HNvvvQ"><u>下载地址3</u></a><br>
-       无界安卓版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/UM.apk"><u>下载地址1</u></a>，<a href="https://git.io/2S1IBQ"><u>下载地址2</u></a>，<a href="https://s3.amazonaws.com/wujie/um.htm"><u>下载地址3</u></a><br><br>
+       无界电脑版：<a href="https://raw.githubusercontent.com/osurf/osurf/master/u.rar" rel="nofollow"><u>下载地址1</u></a>，<a href="https://git.io/wj" rel="nofollow"><u>下载地址2</u></a>，<a href="http://git.io/HNvvvQ" rel="nofollow"><u>下载地址3</u></a><br>
+       无界安卓版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/UM.apk" rel="nofollow"><u>下载地址1</u></a>，<a href="https://git.io/2S1IBQ" rel="nofollow"><u>下载地址2</u></a>，<a href="https://s3.amazonaws.com/wujie/um.apk" rel="nofollow"><u>下载地址3</u></a><br><br>
        2、自由门<br>
        看被禁新闻，知中国真相。永久免费。<br>
-       自由门电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip"><u>下载地址1</u></a>，<a href="https://git.io/fgt"><u>下载地址2</u></a>，<a href="https://git.io/fgp"><u>下载地址3</u></a><br>
-       自由门安卓版：<a href="https://git.io/fgma"><u>下载地址1</u></a><br><br>
-       3、翻墙工具大全(有经验的自己慢慢找)：<a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC"><u>点击访问</u></a><br>
+       自由门电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip" rel="nofollow"><u>下载地址1</u></a>，<a href="https://git.io/fgt" rel="nofollow"><u>下载地址2</u></a>，<a href="https://git.io/fgp" rel="nofollow"><u>下载地址3</u></a><br>
+       自由门安卓版：<a href="https://git.io/fgma" rel="nofollow"><u>下载地址1</u></a><br><br>
+       3、翻墙工具大全(有经验的自己慢慢找)：<a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC" rel="nofollow"><u>点击访问</u></a><br>
        <br name="Lantern">
        4、蓝灯(Lantern)<br>
        适合推特用户。<br>
-       蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe">下载地址2</a><br>
-       蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk">下载地址2</a><br>
+       蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe" rel="nofollow">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe" rel="nofollow">下载地址2</a><br>
+       蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk" rel="nofollow">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk" rel="nofollow">下载地址2</a><br>
        <br name="Psiphon">
        5、赛风(Psiphon)<br>
        适合推特用户。<br>
-       赛风电脑版：<a href="https://psiphon3.com/psiphon3.exe"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe">下载地址2</a><br>
-       赛风安卓版：<a href="https://psiphon3.com/PsiphonAndroid.apk"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk">下载地址2</a><br><br>
-       6、火狐一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"><u>点击访问</u></a><br><br>
-       7、谷歌一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85"><u>点击访问</u></a><br><br>
+       赛风电脑版：<a href="https://psiphon3.com/psiphon3.exe" rel="nofollow"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe" rel="nofollow">下载地址2</a><br>
+       赛风安卓版：<a href="https://psiphon3.com/PsiphonAndroid.apk" rel="nofollow"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk" rel="nofollow">下载地址2</a><br><br>
+       6、火狐一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br><br>
+       7、谷歌一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br><br>
     </td>
   </tr>
   
