@@ -105,9 +105,9 @@
        3、翻墙工具大全(有经验的自己慢慢找)：<a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC" rel="nofollow"><u>点击访问</u></a><br>
        <br name="fqios">
        4、苹果翻墙、VPN<br>
-       苹果翻墙的关键在于要有一个海外苹果ID（Apple ID）。<br>
-       先点此获取海外苹果ID（Apple ID）：<a href="https://user-images.githubusercontent.com/33987457/35207997-e4fbb9a6-ff80-11e7-8030-a587a2c51d3a.jpg" rel="nofollow">获取地址1</a><br>
-       然后，在苹果设备里打开“App Store”-“精品推荐”，拉至最下方，再点“登录”-“使用现有的Apple ID”，用刚才获取到的任一苹果ID（Apple ID）登录，再点“搜索”，搜“VPN”或“翻墙”，即可搜到很多VPN翻墙软件。因不断封锁，有些可用，有些不可用，自己多尝试！<br>
+       苹果设备翻墙的关键在于要有一个海外苹果ID（Apple ID）。<br>
+       海外苹果ID（Apple ID）请点这里获取：<a href="https://user-images.githubusercontent.com/33987457/35207997-e4fbb9a6-ff80-11e7-8030-a587a2c51d3a.jpg" rel="nofollow">获取地址1</a><br>
+       获取后，在苹果设备里打开“App Store”-“精品推荐”，拉至最下方，再点“登录”-“使用现有的Apple ID”，用获取的任一苹果ID（Apple ID）登录，再点“搜索”，搜“VPN”或“翻墙”，即可搜到很多VPN翻墙软件。因不断封锁，有些可用，有些不可用，自己多尝试！<br>
        <br name="Lantern">
        5、蓝灯(Lantern)<br>
        适合推特用户。<br>
