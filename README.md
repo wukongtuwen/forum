@@ -15,11 +15,12 @@
       <a href="#">https://git.io/wktw1</a><br>
       请用电脑或手机浏览器打开本站<br>
       否则QQ微信里可能有链接打不开<br>
+      🔴稳定上外网请下载<a href="#fq">翻墙软件</a>🔴<br>
+      🔴苹果翻墙VPN请去<a href="#fqios">苹果VPN</a>🔴<br>
       🔴看中国动态请去<a href="#dtw">动态网</a>🔴<br>
-      🔴看禁书禁闻请去<a href="#bannedbook">禁书禁闻网</a>🔴<br>
+      🔴看禁书禁闻请去<a href="#jww">禁书禁闻网</a>🔴<br>
       🔴看被禁视频请去<a href="#ogate">网门</a>🔴<br> 
-      🔴稳定上外网请下载<a href="#vpn">翻墙软件</a>🔴<br>
-      🔴看经典禁片请去<a href="#bannedvideo">大陆禁片</a>🔴<br> 
+      🔴看经典禁片请去<a href="#jp">大陆禁片</a>🔴<br> 
       🔴三退自救请去<a href="#st">我要三退</a>🔴<br>
     </td>
   </tr>
@@ -53,9 +54,10 @@
  
   <tr>
     <td align="center"> 
-     <br name="bannedbook">
+     <br name="jww">
      <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
      欢迎访问禁书禁闻网<br>
+     <a href="https://git.io/jww">https://git.io/jww</a><br>
      下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/jinwen.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/jinwen.apk" rel="nofollow">下载地址2</a><br>
      点击下列入口，均可进入禁书禁闻网<br>
      <a href="https://aa.cuanpu.us/" rel="nofollow"><u>入口1</u></a>，<a href="https://ab.cuanpu.us/" rel="nofollow"><u>入口2</u></a><br>
@@ -90,7 +92,7 @@
   
   <tr>
     <td align="left">
-       <br name="vpn">
+       <br name="fq">
        <b>翻墙软件、VPN</b><br><br> 
        1、无界浏览<br>
        看被禁新闻，知中国真相。永久免费。<br>
@@ -101,24 +103,29 @@
        自由门电脑版：<a href="https://raw.githubusercontent.com/opipe/Up/master/Tools/FG.zip" rel="nofollow"><u>下载地址1</u></a>，<a href="https://git.io/fgt" rel="nofollow"><u>下载地址2</u></a>，<a href="https://git.io/fgp" rel="nofollow"><u>下载地址3</u></a><br>
        自由门安卓版：<a href="https://git.io/fgma" rel="nofollow"><u>下载地址1</u></a><br><br>
        3、翻墙工具大全(有经验的自己慢慢找)：<a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC" rel="nofollow"><u>点击访问</u></a><br>
+       <br name="fqios">
+       4、苹果翻墙、VPN<br>
+       苹果设备翻墙的关键在于要有一个海外苹果ID（Apple ID）。<br>
+       海外苹果ID（Apple ID）请点这里获取：<a href="https://user-images.githubusercontent.com/33987457/35207997-e4fbb9a6-ff80-11e7-8030-a587a2c51d3a.jpg" rel="nofollow">获取地址1</a><br>
+       获取后，在苹果设备里打开“App Store”-“精品推荐”，拉至最下方，再点“登录”-“使用现有的Apple ID”，用获取的任一苹果ID（Apple ID）登录，再点“搜索”，搜“VPN”或“翻墙”，即可搜到很多VPN翻墙软件。因不断封锁，有些可用，有些不可用，自己多尝试！<br>
        <br name="Lantern">
-       4、蓝灯(Lantern)<br>
+       5、蓝灯(Lantern)<br>
        适合推特用户。<br>
        蓝灯电脑版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe" rel="nofollow">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.exe" rel="nofollow">下载地址2</a><br>
        蓝灯安卓版：<a href="https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk" rel="nofollow">下载地址1</a>，<a href="https://s3.amazonaws.com/lantern/lantern-installer.apk" rel="nofollow">下载地址2</a><br>
        <br name="Psiphon">
-       5、赛风(Psiphon)<br>
+       6、赛风(Psiphon)<br>
        适合推特用户。<br>
        赛风电脑版：<a href="https://psiphon3.com/psiphon3.exe" rel="nofollow"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/psiphon3.exe" rel="nofollow">下载地址2</a><br>
        赛风安卓版：<a href="https://psiphon3.com/PsiphonAndroid.apk" rel="nofollow"><u>下载地址1</u></a>，<a href="https://s3.amazonaws.com/hum9-lwg8-qa2w/PsiphonAndroid.apk" rel="nofollow">下载地址2</a><br><br>
-       6、火狐一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br><br>
-       7、谷歌一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br><br>
+       7、火狐一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br><br>
+       8、谷歌一键翻墙包(推荐)：<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" rel="nofollow"><u>点击访问</u></a><br><br>
     </td>
   </tr>
   
   <tr>
     <td align="left">
-     <br name="bannedvideo">
+     <br name="jp">
      <b>▶ 大陆禁片 · 在线观看或下载</b><br><br>
      <a href="https://d229rk9l49nnml.cloudfront.net/falsefire.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/19641471/17117230/38bad78a-5289-11e6-8790-1230d796c19e.jpg" width="317" height="123"></a>
      <a href="https://github.com/tomalltruthforyou/BaiNianCCP/blob/master/README.md" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/24839779/6b975d1e-1d26-11e7-9d5e-9d9593e235fe.jpg" width="317" height="123"></a>
