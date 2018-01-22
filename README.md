@@ -56,6 +56,7 @@
      <br name="bannedbook">
      <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
      欢迎访问禁书禁闻网<br>
+     <a href="https://git.io/jww">https://git.io/jww</a><br>
      下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/jinwen.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/jinwen.apk" rel="nofollow">下载地址2</a><br>
      点击下列入口，均可进入禁书禁闻网<br>
      <a href="https://aa.cuanpu.us/" rel="nofollow"><u>入口1</u></a>，<a href="https://ab.cuanpu.us/" rel="nofollow"><u>入口2</u></a><br>
