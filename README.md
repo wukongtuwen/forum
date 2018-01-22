@@ -15,11 +15,11 @@
       <a href="#">https://git.io/wktw1</a><br>
       请用电脑或手机浏览器打开本站<br>
       否则QQ微信里可能有链接打不开<br>
+      🔴稳定上外网请下载<a href="#fq">翻墙软件</a>🔴<br>
+      🔴苹果翻墙VPN请去<a href="#fqios">苹果VPN</a>🔴<br>
       🔴看中国动态请去<a href="#dtw">动态网</a>🔴<br>
       🔴看禁书禁闻请去<a href="#jww">禁书禁闻网</a>🔴<br>
       🔴看被禁视频请去<a href="#ogate">网门</a>🔴<br> 
-      🔴稳定上外网请下载<a href="#fq">翻墙软件</a>🔴<br>
-      🔴苹果翻墙VPN请去<a href="#fqios">苹果VPN</a>🔴<br>
       🔴看经典禁片请去<a href="#jp">大陆禁片</a>🔴<br> 
       🔴三退自救请去<a href="#st">我要三退</a>🔴<br>
     </td>
