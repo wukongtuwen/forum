@@ -60,7 +60,7 @@
      <a href="https://git.io/jww">https://git.io/jww</a><br>
      下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/jinwen.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/jinwen.apk" rel="nofollow">下载地址2</a><br>
      点击下列入口，均可进入禁书禁闻网<br>
-     <a href="https://aa.cuanpu.us/" rel="nofollow"><u>入口1</u></a>，<a href="https://ab.cuanpu.us/" rel="nofollow"><u>入口2</u></a><br>
+     <a href="https://bo.cuanpu.us" rel="nofollow"><u>入口1</u></a>，<a href="https://bp.cuanpu.us" rel="nofollow"><u>入口2</u></a><br>
      <a href="https://git.io/gfree" rel="nofollow"><u>入口3</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>入口4</u></a><br>
      点击入口12，再点“备用网址”<br>
      点击入口34，再点“禁书网”<br><br>
