@@ -29,45 +29,14 @@
   <tr>
     <td align="left"><br>
      <b>全部悟空图文下载：</b><br>
-     <a href="https://ipfs.io/ipns/QmdRaB7BPW4hE8UdNN5M6VdCTPG6c8AN269UrqjVYc42xC" rel="nofollow"><u>下载地址1</u></a>(免翻墙，打开后拉至底部)<br>
-     <a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ" rel="nofollow"><u>下载地址2</u></a>(需<a href="#vpn">翻墙</a>，打开后右键点击)<br><br>
+     <a href="https://mega.nz/#F!FnYw0TgR!KTMEy-QePKmNRXFJb_ezKQ" rel="nofollow"><u>下载地址</u></a>(需使用<a href="#vpn">翻墙软件</a>才能打开)<br><br>
      <b>悟空图文官方平台：</b><br>
-     悟空图文推特：<a href="https://twitter.com/wukongtuwen">点击访问</a>(需<a href="#vpn">翻墙</a>)<br>
-     悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>(需<a href="#vpn">翻墙</a>)<br><br>
+     悟空图文推特：<a href="https://twitter.com/wukongtuwen">点击访问</a>(需使用<a href="#vpn">翻墙软件</a>才能访问)<br>
+     悟空图文博客：<a href="https://wukongtuwen.blogspot.com">点击访问</a>(需使用<a href="#vpn">翻墙软件</a>才能访问)<br><br>
     </td>
   </tr>
  
  
-  <tr>
-    <td align="center"> 
-     <br name="dtw">
-     <img src="https://user-images.githubusercontent.com/33987457/34963548-1d630d1e-fa84-11e7-90bf-b19621f43f9c.jpg" style="max-width:100%;"><br>
-     欢迎访问动态网<br>
-     下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/dweb.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/dweb.apk" rel="nofollow">下载地址2</a><br>
-     点击下列入口，均可进入动态网<br>
-     <a href="https://git.io/jw2" rel="nofollow"><u>入口1</u></a>，<a href="https://git.io/gfree" rel="nofollow"><u>入口2</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>入口3</u></a><br>
-     点击入口1，再点“自由上网入口”<br>
-     点击入口23，再点“动态网”<br><br>
-    </td>
-  </tr>
-  
- 
-  <tr>
-    <td align="center"> 
-     <br name="jww">
-     <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
-     欢迎访问禁书禁闻网<br>
-     <a href="https://git.io/jww">https://git.io/jww</a><br>
-     下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/jinwen.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/jinwen.apk" rel="nofollow">下载地址2</a><br>
-     点击下列入口，均可进入禁书禁闻网<br>
-     <a href="https://bo.cuanpu.us" rel="nofollow"><u>入口1</u></a>，<a href="https://bp.cuanpu.us" rel="nofollow"><u>入口2</u></a><br>
-     <a href="https://git.io/gfree" rel="nofollow"><u>入口3</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>入口4</u></a><br>
-     点击入口12，再点“备用网址”<br>
-     点击入口34，再点“禁书网”<br><br>
-    </td>
-  </tr>
-  
-
    <tr>
     <td align="center">  
     <br name="ogate">
@@ -90,6 +59,31 @@
   </tr>
   
   
+  <tr>
+    <td align="center"> 
+     <br name="dtw">
+     <img src="https://user-images.githubusercontent.com/33987457/34963548-1d630d1e-fa84-11e7-90bf-b19621f43f9c.jpg" style="max-width:100%;"><br>
+     欢迎访问动态网<br>
+     下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/dweb.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/dweb.apk" rel="nofollow">下载地址2</a><br>
+     点击下列入口，均可进入动态网<br>
+     <a href="https://git.io/gfree" rel="nofollow"><u>入口1</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>入口2</u></a><br><br>
+    </td>
+  </tr>
+  
+ 
+  <tr>
+    <td align="center"> 
+     <br name="jww">
+     <img src="https://user-images.githubusercontent.com/33987457/34940754-bebef30c-fa2b-11e7-9a48-24ef8addd894.jpg" style="max-width:100%;"><br>
+     欢迎访问禁书禁闻网<br>
+     <a href="https://git.io/jww">https://git.io/jww</a><br>
+     下载安卓版，更快更方便<br><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/jinwen.apk" rel="nofollow">下载地址1</a>，<a href="https://storage.googleapis.com/jwnews/jinwen.apk" rel="nofollow">下载地址2</a><br>
+     点击下列入口，均可进入禁书禁闻网<br>
+     <a href="https://git.io/gfree" rel="nofollow"><u>入口1</u></a>，<a href="https://git.io/jw1" rel="nofollow"><u>入口2</u></a><br><br>
+    </td>
+  </tr>
+  
+
   <tr>
     <td align="left">
        <br name="fq">
